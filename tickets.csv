@@ -1,0 +1,11 @@
+ticket_id,subject,description,submitted_by,date
+TKT-001,Login failures across EMEA,"Multiple users in London and Paris offices reporting 401 errors since 6AM GMT. Affects both web and mobile.",sarah.chen@contoso.com,2026-03-15
+TKT-002,Dashboard loading slowly,"Executive dashboard taking 45+ seconds to load. Only affects the Finance department's custom views.",mike.johnson@contoso.com,2026-03-15
+TKT-003,Cannot export reports to PDF,"Export button grays out after clicking. Console shows CORS error. Started after last Friday's deployment.",priya.patel@contoso.com,2026-03-14
+TKT-004,New hire needs SAP access,"Onboarding for 15 new hires in Sales starting Monday. Need SAP S/4HANA read access provisioned by EOD Friday.",hr-team@contoso.com,2026-03-14
+TKT-005,Data sync failure between CRM and ERP,"Nightly sync job failed 3 consecutive nights. Delta records accumulating. Finance month-end close at risk.",ops-alerts@contoso.com,2026-03-13
+TKT-006,Request for GPU compute quota increase,"ML team needs 8x A100 GPUs for fine-tuning project. Current quota is 2. Project deadline is April 1.",dr.kumar@contoso.com,2026-03-13
+TKT-007,Suspicious login attempts detected,"Security alert: 200+ failed login attempts from IP range 185.x.x.x targeting service accounts overnight.",soc-team@contoso.com,2026-03-12
+TKT-008,Teams integration broken after update,"Custom Teams app stopped sending notifications. Error: 'Bot framework token expired'. Affects 500+ users.",dev-team@contoso.com,2026-03-12
+TKT-009,Database connection pool exhaustion,"Production SQL Server hitting max connections (500). Application throwing timeout exceptions during peak hours.",dba-team@contoso.com,2026-03-11
+TKT-010,Compliance audit data request,"Legal needs all user access logs for the past 90 days exported to encrypted storage by end of month.",compliance@contoso.com,2026-03-11
